@@ -1,2 +1,2 @@
 # MSAL_Demo
-User authenticate by using Microsoft authentication library
+User authenticate in Lightning Web Component by using Microsoft authentication library
